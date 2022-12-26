@@ -1,0 +1,19 @@
+
+
+*{
+  font-family: sans-serif;
+}
+
+html{
+  
+  display: flex;
+  justify-content:center ;
+  align-items:center;
+}
+
+.separator{
+  width: 100%;
+  max-width: 800px;
+}
+
+
