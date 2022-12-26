@@ -1,6 +1,5 @@
 import React from "react";
 import LogoImage from "../../assets/images/logo.svg";
-import { LogoImg } from "./styles";
 import * as S from "./styles.js";
 
 // import { Container } from './styles';
